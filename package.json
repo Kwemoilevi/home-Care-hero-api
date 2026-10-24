@@ -1,0 +1,6 @@
+{
+  "name": "api",
+  "main": "server.js",
+  "scripts": {"start":"node server.js"},
+  "dependencies": {"express":"*","axios":"*","uuid":"*","cors":"*"}
+}
